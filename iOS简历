@@ -124,6 +124,8 @@ IP定位：在Google Map中标记某IP地理位置。
 
 定时器：定时提醒预先设定的计划。用于运动健身，洗衣服等。
 
+moveVim: Chrome插件，使用Vim操作浏览网页。
+
 其他Linux平台各种小程序。
 
 ---
@@ -134,8 +136,9 @@ IP定位：在Google Map中标记某IP地理位置。
 ## 开源项目
 （对于程序员来讲，没有什么比Show me the code能有说服力了）
 
- - [STU](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
+ - [layoutWindows](https://github.com/lyle-luan/layoutWindows)：Mac OS X下使用快捷键控制其他App窗口。
+ - [EverydayEnglish](https://github.com/lyle-luan/EverydayEnglish) : 常见中英文短句，提供不一样的口头禅。
+ - [markdir](https://github.com/lyle-luan/markdir) : 快速在目录中跳转的shell脚本。
 
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
